@@ -1,0 +1,31 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vashkev.ru" resolutions="1x" timestamp="1489217300715">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="4126877016" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u156.php" crc="244448282" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u125-4-a.png" crc="3819259305" ref="index"/>
+    <file name="u157-17.png" crc="175448469" ref="index"/>
+    <file name="u157-17-r.png" crc="171098050" ref="index"/>
+    <file name="u157-17-m.png" crc="159655192" ref="index"/>
+    <file name="u157-17-fs.png" crc="261784207" ref="index"/>
+    <file name="save_my_love_for_loneliness_3840x2400-u103-3.png" crc="155535670" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4212820752" seo="true" mt="1489216548642" redirect="true"/>
+</manifest>
